@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginRegistrationValidation</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="skip">SKIP</string>
+    <string name="login_now">Login Now</string>
+    <string name="ERR_BLANKEMAIL">Blank Mobile no field is not allow!!</string>
+    <string name="ERR_BLANKPASS">Please provide valid password</string>
+    <string name="ERR_FIRSTNAME">Please enter full name here</string>
+    <string name="ERR_INCORRECT_EMAIL">Please enter valid email!!!</string>
+    <string name="error_short_password">Please enter password greater than 5 digit and less than 31</string>
+    <string name="ERR_PASSWORD_MISMATCH">Password and Confirm Password mismatch!!</string>
+    <string name="error_invalid_password">Please enter valid password!!</string>
+    <string name="ERR_INCORRECT_MOBILE_NO">Please enter mobile no</string>
+</resources>
