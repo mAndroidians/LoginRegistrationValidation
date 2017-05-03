@@ -179,6 +179,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             focusView = loginPass;
             cancel = true;
         } else {
+            // this is work
             if (cancel) {
                 // There was an error; don't attempt login and focus the first
                 // form field with an error.
