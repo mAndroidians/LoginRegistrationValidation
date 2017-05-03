@@ -166,6 +166,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         boolean cancel = false;
         View focusView = null;
 
+        // for add
+
         // Check for a valid password, if the user entered one.
         // Check for a valid email address.
         if (TextUtils.isEmpty(phone_number)) {
